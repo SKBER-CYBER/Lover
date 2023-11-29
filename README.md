@@ -24,7 +24,7 @@ pip install bs4
 
 pkg install git
 
-git clone https://github.com/SKBER-CYBER/Lover
+git clone --depth=1 https://github.com/SKBER-CYBER/Lover
 
 cd Lover
 
