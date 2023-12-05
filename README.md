@@ -1,39 +1,30 @@
-updeta Done
+#Lover
+PAID TOOLS
+<b></b> </br> <br>[![Github](https://img.shields.io/badge/Github-SKBER-CYBER-dimgray?style=flat-square&logo=github)](https://github.com/SKBER-CYBER)<br> [![Facebook](https://img.shields.io/badge/Facebook-SKBER-CYBER-blue?style=flat-square&logo=facebook)](https://www.facebook.com/profile.php?id=100086415663015)<br> [![Whatsapp](https://img.shields.io/badge/Whatsapp-JAHID-deepgreen?style=flat-square&logo=whatsapp)](https://wa.me/+8801917466867)
 
-termux-setup-storage
 
-pkg update
 
-pkg upgrade
+<h1 align="center"> [MR.JAHID]</h1>
 
-pkg install python
+<h2 align="center">  FB CLONING TOOL </h2>
 
-pkg install python2
 
-pip install requests
+## <b>installation</b>
 
-pip install mechanize
+🔰 _CLONE FULL OK IDZ_
 
-pkg install python2 git nodejs
 
-pip install lolcat
+- `pkg update`
+- `pkg upgrade`
+- `pkg install git`
+- `pkg install python`
+- `pip install requests`
+- `rm -rf Lover`
+- `git clone --depth=1 https://github.com/SKBER-CYBER/Lover.git`
+- `cd Lover`
+- `python Lover.py`
 
-pip install rich
 
-pip install bs4
 
-pkg install git
-
-rm -rf Lover
-
-git clone https://github.com/SKBER-CYBER/Lover
-
-cd Lover
-
-python Lover.py
-
-or 32 Bit 
-
-python 32Bit.py
-
-# Lover
+ ___This Tools is Paid___</br>
+ [![Whatsapp](https://img.shields.io/badge/Whatsapp-JAHID-deepgreen?style=flat-square&logo=whatsapp)](https://wa.me/+8801917466867)
