@@ -32,4 +32,8 @@ cd Lover
 
 python Lover.py
 
+or 32 Bit 
+
+python 32Bit.py
+
 # Lover
