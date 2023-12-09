@@ -23,7 +23,7 @@ PAID TOOLS
 - `rm -rf Lover`
 - `git clone --depth=1 https://github.com/SKBER-CYBER/Lover.git`
 - `cd Lover`
-- `python Lover.py`
+- `python Jahid.py`
 
 
 
